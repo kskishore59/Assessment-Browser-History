@@ -1,0 +1,41 @@
+.main-container {
+  display: flex;
+  justify-content: space-between;
+  padding: 20px;
+  list-style-type: none;
+}
+
+.text-container {
+  display: flex;
+  width: 40%;
+}
+
+.delete-button {
+  background-color: transparent;
+  border: 0px none;
+  cursor: pointer;
+  outline: none;
+}
+
+.time {
+  color: #64748b;
+  font-family: Roboto;
+  font-weight: bold;
+}
+
+.logo-img {
+  height: 50px;
+  width: 50px;
+  margin-right: 10px;
+}
+
+.domain-url {
+  color: #64748b;
+  font-family: Roboto;
+  margin-left: 10px;
+}
+
+.title {
+  color: #475569;
+  font-family: Roboto;
+}
